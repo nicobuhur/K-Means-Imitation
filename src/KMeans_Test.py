@@ -1,6 +1,6 @@
 # Python File to test your KMeans class
 
-from K_Means_ClusteringNecatiBuhur import KMeans
+from kmeansclustering import KMeans
 import numpy as np
 import pandas as pd
 import os
